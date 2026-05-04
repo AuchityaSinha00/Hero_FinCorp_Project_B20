@@ -21,7 +21,7 @@ import seaborn as sns
 # =============================================================================
 
 DATA_PATH = r"C:\Users\auchi\Downloads\Datasets_hero_fin"
-OUTPUT_PATH = "beginner_outputs"
+OUTPUT_PATH = "chart_outputs"
 
 os.makedirs(OUTPUT_PATH, exist_ok=True)
 sns.set(style="whitegrid")
